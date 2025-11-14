@@ -198,5 +198,25 @@
         "valoracion": 3.6,
         "existencia": 5,
         "imagen": "imagenes/0020.png"
+    },
+    {
+        "id": 21,
+        "titulo": "Remera deportiva Adidas",
+        "precio": 24.99,
+        "descripcion": "Remera deportiva Adidas de alto rendimiento, tecnología Climalite que absorbe humedad, ideal para entrenamiento intenso y actividades al aire libre.",
+        "categoria": "Ropa de hombre",
+        "valoracion": 4.5,
+        "existencia": 5,
+        "imagen": "imagenes/0021.png"
+    },
+    {
+        "id": 22,
+        "titulo": "Disco duro externo Seagate 4TB",
+        "precio": 89.99,
+        "descripcion": "Disco duro externo Seagate 4TB USB 3.0, alta capacidad de almacenamiento, compatible con PC y Mac, ideal para respaldos automáticos y almacenamiento multimedia.",
+        "categoria": "Electrónica",
+        "valoracion": 4.4,
+        "existencia": 5,
+        "imagen": "imagenes/0022.png"
     }
 ]
